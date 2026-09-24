@@ -41,8 +41,8 @@ hash = "25797d31b49645574c4e02e1774a5b6243d9deb78abdf967fd77e1617c9b0404"
 metafile = true
 
 [[files]]
-file = "mods/chunksmith.pw.toml"
-hash = "800172470b7c288f2997794583dffe45e358ea48e0654418b14cda9d1d3d01ef"
+file = "mods/chunky.pw.toml"
+hash = "dc7060edc5b77096f6147700b383c960dd59eaf386bea7c591bbdc2266729eda"
 metafile = true
 
 [[files]]
