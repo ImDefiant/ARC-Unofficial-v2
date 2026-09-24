@@ -1,0 +1,13 @@
+name = "Villager Pickup"
+filename = "villagerpickup-fabric-26.2-1.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/EL95Q1AM/versions/ASA0P3XJ/villagerpickup-fabric-26.2-1.4.jar"
+hash-format = "sha1"
+hash = "7d9a2054c79f1bf9d01d48718cd64d8fd2f41959"
+
+[update]
+[update.modrinth]
+mod-id = "EL95Q1AM"
+version = "ASA0P3XJ"

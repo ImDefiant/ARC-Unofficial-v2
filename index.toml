@@ -26,6 +26,11 @@ hash = "668f5d3d1b99ed5141e2b4f4dc872bb2bb59a60356a7c9681ab73662a5c0eb6e"
 metafile = true
 
 [[files]]
+file = "mods/betterhealthbar.pw.toml"
+hash = "6500ea9de5a4c9184cda5b8ee33d3b2691fa4bcebe74e682eacb0aa230dd815d"
+metafile = true
+
+[[files]]
 file = "mods/blasting-plus.pw.toml"
 hash = "da6b7ea41ce64487b257f30002204fa1d3741f0178ac52dceca77ad991f86036"
 metafile = true
@@ -58,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/conduits-prevent-drowned.pw.toml"
 hash = "9f68339f508ba48d045441988f130655480b1608173747cf9ece11e85c097e3a"
+metafile = true
+
+[[files]]
+file = "mods/configurable.pw.toml"
+hash = "f31b2b45fc407956af57c8c25c38e3ccd2065eef21cc846bd5819418e31bed50"
 metafile = true
 
 [[files]]
@@ -196,6 +206,11 @@ hash = "2198914a3a83f2fcad632e67f8e84c5d70d59be78241c900c7443f39d293c038"
 metafile = true
 
 [[files]]
+file = "mods/neruina.pw.toml"
+hash = "80cf58f9471685046d3e8b19b0e1d92affd783f43184e959e54cc31fea1686a2"
+metafile = true
+
+[[files]]
 file = "mods/no-animal-tempt-delay.pw.toml"
 hash = "c7493c405cbce08d003d5ebda72c858d202d6d35d64fabb7ff0fee4872802b2c"
 metafile = true
@@ -251,8 +266,18 @@ hash = "1ba8e54a4ec85f349f55fc189795392460e407ceb97f52b59cfe0702a56c43c7"
 metafile = true
 
 [[files]]
+file = "mods/servux.pw.toml"
+hash = "13d1c015e169384653f80ddf73007ea883e79411bb73ea38efb75927776ce2fb"
+metafile = true
+
+[[files]]
 file = "mods/shulker-drops-two.pw.toml"
 hash = "4a17830448d54dc63d3c888188ea0e971540d75cb3abaa5fd81ed7864f1a4de1"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "85485f8ebad3873ce2d49f3ded8ca9a1532d50ac47a48932db642a54471d5229"
 metafile = true
 
 [[files]]
@@ -278,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "caddb2aff92b5e2fd48a697895a6eb080726ffc5032eff8338e4a0087177bc98"
+metafile = true
+
+[[files]]
+file = "mods/terralith-restoned.pw.toml"
+hash = "5ca0e9a0a8aa1f0fdd886084053986cccccb195b3ff0c199be8fe9681f2bdc9a"
 metafile = true
 
 [[files]]
@@ -316,8 +346,18 @@ hash = "8a7cf32ced4f39a2020b686291a5b5752c1a04e6d125012d729badf20cb89ba4"
 metafile = true
 
 [[files]]
+file = "mods/villager-pickup.pw.toml"
+hash = "39571121c23038fd246c7686fb758b180d9b09a932b9bdfba9e6ac454b19ba94"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "5943231719a25536acf14e90cd9d1bc79f29d6a6a2aa18f28541d4d0c39c52b0"
+metafile = true
+
+[[files]]
+file = "mods/wits.pw.toml"
+hash = "fec6e0da70f68d5b908abf26932401aef2d08bc7299e5a21f0b8897e0d08b41e"
 metafile = true
 
 [[files]]
