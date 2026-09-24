@@ -1,0 +1,13 @@
+name = "Inventory Totem"
+filename = "inventorytotem-26.2.0-3.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/yQj7xqEM/versions/cvQahNLR/inventorytotem-26.2.0-3.4.jar"
+hash-format = "sha1"
+hash = "960b2c7625cd43fba78f9df49aa019ca423040c2"
+
+[update]
+[update.modrinth]
+mod-id = "yQj7xqEM"
+version = "cvQahNLR"

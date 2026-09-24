@@ -1,0 +1,13 @@
+name = "Better Beacon Placement"
+filename = "betterbeaconplacement-26.2.0-3.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/GOKA9KZY/versions/ajVNjLez/betterbeaconplacement-26.2.0-3.6.jar"
+hash-format = "sha1"
+hash = "83580561a0e83ebf4df03b8a73be4182ddae81c2"
+
+[update]
+[update.modrinth]
+mod-id = "GOKA9KZY"
+version = "ajVNjLez"

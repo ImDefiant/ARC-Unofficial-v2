@@ -1,0 +1,13 @@
+name = "Arc Unoffical Minecraft 26"
+author = "ImDefiant"
+version = "1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "04d76e26e2ec7ff694d55f8e4f62490907eb27048f6747e808166d98a50ef5d9"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.2"

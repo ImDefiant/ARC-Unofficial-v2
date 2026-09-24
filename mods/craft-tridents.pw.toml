@@ -1,0 +1,13 @@
+name = "Craftable Trident"
+filename = "craft-tridents-107.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/j6oNCsqx/versions/IYyQA6SQ/craft-tridents-107.1.jar"
+hash-format = "sha1"
+hash = "efc1379427cc07eb7c275c664c8bb03e53676ea9"
+
+[update]
+[update.modrinth]
+mod-id = "j6oNCsqx"
+version = "IYyQA6SQ"

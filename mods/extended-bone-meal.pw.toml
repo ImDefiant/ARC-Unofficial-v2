@@ -1,0 +1,13 @@
+name = "Extended Bone Meal"
+filename = "extendedbonemeal-26.2.0-3.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/bHkCoxMs/versions/B7GcjVmx/extendedbonemeal-26.2.0-3.6.jar"
+hash-format = "sha1"
+hash = "5c93abfcc8925347e6efcab5f776469fe3721300"
+
+[update]
+[update.modrinth]
+mod-id = "bHkCoxMs"
+version = "B7GcjVmx"

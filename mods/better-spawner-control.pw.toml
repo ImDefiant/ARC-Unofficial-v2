@@ -1,0 +1,13 @@
+name = "Better Spawner Control"
+filename = "betterspawnercontrol-26.2.0-4.8.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/hmAeYRJT/versions/MPVFdBGl/betterspawnercontrol-26.2.0-4.8.jar"
+hash-format = "sha1"
+hash = "8d403ee67844e3471e3378f4a202e7e29920d059"
+
+[update]
+[update.modrinth]
+mod-id = "hmAeYRJT"
+version = "MPVFdBGl"

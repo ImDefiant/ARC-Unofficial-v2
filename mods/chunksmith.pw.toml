@@ -1,0 +1,13 @@
+name = "Chunksmith"
+filename = "chunksmith-4.3.3+26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4BeAEBIb/versions/DOG9d1V6/chunksmith-4.3.3%2B26.2.jar"
+hash-format = "sha1"
+hash = "b581f69f069d657eb1bb3ea8da2f7cf37a6f8c64"
+
+[update]
+[update.modrinth]
+mod-id = "4BeAEBIb"
+version = "DOG9d1V6"

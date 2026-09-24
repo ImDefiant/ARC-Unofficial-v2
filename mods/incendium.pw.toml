@@ -1,0 +1,13 @@
+name = "Incendium Legacy"
+filename = "Incendium_26.2_v5.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZVzW5oNS/versions/vPwuqZ5y/Incendium_26.2_v5.5.1.jar"
+hash-format = "sha1"
+hash = "95ef784f21e4ae02ef8c3b1879fc300f01b4cb9c"
+
+[update]
+[update.modrinth]
+mod-id = "ZVzW5oNS"
+version = "vPwuqZ5y"
